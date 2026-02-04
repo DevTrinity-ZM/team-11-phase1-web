@@ -3,7 +3,8 @@
 ## Team Members
 - Floribe - Frontend / UI
 - Nyambe - Frontend
-- ERIC
+- ERIC -  Frontend
+- Matilda 
 
 
 ## Project Description
